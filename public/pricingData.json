@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "30$",
+    "description": "Essential access for solo trainers.",
+    "features": [
+      "Unlimited gym floor access",
+      "Standard locker room use",
+      "Mobile app tracking",
+      "Guest Wi-Fi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro Plan",
+    "price": "60$",
+    "description": "Our most popular community-focused plan.",
+    "features": [
+      "All Basic features",
+      "Unlimited group classes",
+      "2 Guest passes per month",
+      "Sauna access",
+      "10% shop discount"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Elite Plan",
+    "price": "125&",
+    "description": "The ultimate performance and recovery package.",
+    "features": [
+      "All Pro features",
+      "1 Monthly PT session",
+      "Unlimited hydro-massage",
+      "Body composition scans",
+      "Towel service"
+    ]
+  }
+]
