@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Basic Plan",
-    "price": "30$",
+    "price": "$30.99/month",
     "description": "Essential access for solo trainers.",
     "features": [
       "Unlimited gym floor access",
@@ -14,7 +14,8 @@
   {
     "id": 2,
     "name": "Pro Plan",
-    "price": "60$",
+    "price": "$60.99/month",
+    "popular":true,
     "description": "Our most popular community-focused plan.",
     "features": [
       "All Basic features",
@@ -27,7 +28,7 @@
   {
     "id": 3,
     "name": "Elite Plan",
-    "price": "125&",
+    "price": "$125.99/month",
     "description": "The ultimate performance and recovery package.",
     "features": [
       "All Pro features",
